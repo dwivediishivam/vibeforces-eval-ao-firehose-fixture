@@ -1,0 +1,3040 @@
+[
+  {
+    "event_id": "EVT-00001",
+    "timestamp": "2026-04-18T00:25:00Z",
+    "kind": "incident",
+    "title": "INC-149: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00002",
+    "timestamp": "2026-04-18T00:03:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00003",
+    "timestamp": "2026-04-18T01:15:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1046 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00004",
+    "timestamp": "2026-04-18T01:40:00Z",
+    "kind": "incident",
+    "title": "INC-696: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00005",
+    "timestamp": "2026-04-18T01:14:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1023 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00006",
+    "timestamp": "2026-04-18T02:36:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1157 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00007",
+    "timestamp": "2026-04-18T02:40:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00008",
+    "timestamp": "2026-04-18T02:03:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00009",
+    "timestamp": "2026-04-18T02:29:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.0.2",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00010",
+    "timestamp": "2026-04-18T03:05:00Z",
+    "kind": "incident",
+    "title": "INC-407: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00011",
+    "timestamp": "2026-04-18T03:18:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00012",
+    "timestamp": "2026-04-18T03:09:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.0.3",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00013",
+    "timestamp": "2026-04-18T03:36:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00014",
+    "timestamp": "2026-04-18T03:31:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00015",
+    "timestamp": "2026-04-18T04:42:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00016",
+    "timestamp": "2026-04-18T04:43:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00017",
+    "timestamp": "2026-04-18T04:01:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.0.4",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00018",
+    "timestamp": "2026-04-18T05:13:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1393 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00019",
+    "timestamp": "2026-04-18T05:58:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00020",
+    "timestamp": "2026-04-18T05:17:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00021",
+    "timestamp": "2026-04-18T06:43:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.0.6",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00022",
+    "timestamp": "2026-04-18T06:14:00Z",
+    "kind": "incident",
+    "title": "INC-338: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00023",
+    "timestamp": "2026-04-18T06:18:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.0.6",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00024",
+    "timestamp": "2026-04-18T07:08:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.0.7",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00025",
+    "timestamp": "2026-04-18T07:03:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00026",
+    "timestamp": "2026-04-18T07:25:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00027",
+    "timestamp": "2026-04-18T07:13:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1225 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00028",
+    "timestamp": "2026-04-18T10:34:00Z",
+    "kind": "incident",
+    "title": "INC-472: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00029",
+    "timestamp": "2026-04-18T10:24:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00030",
+    "timestamp": "2026-04-18T10:07:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00031",
+    "timestamp": "2026-04-18T10:05:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.0.10",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00032",
+    "timestamp": "2026-04-18T11:10:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00033",
+    "timestamp": "2026-04-18T11:34:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00034",
+    "timestamp": "2026-04-18T11:54:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00035",
+    "timestamp": "2026-04-18T12:49:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00036",
+    "timestamp": "2026-04-18T12:52:00Z",
+    "kind": "incident",
+    "title": "INC-857: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00037",
+    "timestamp": "2026-04-18T12:46:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.0.12",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00038",
+    "timestamp": "2026-04-18T12:38:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00039",
+    "timestamp": "2026-04-18T14:14:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1240 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00040",
+    "timestamp": "2026-04-18T15:30:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1465 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00041",
+    "timestamp": "2026-04-18T15:58:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1198 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00042",
+    "timestamp": "2026-04-18T15:50:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00043",
+    "timestamp": "2026-04-18T15:47:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00044",
+    "timestamp": "2026-04-18T17:57:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00045",
+    "timestamp": "2026-04-18T18:59:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00046",
+    "timestamp": "2026-04-18T18:51:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1497 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00047",
+    "timestamp": "2026-04-18T18:27:00Z",
+    "kind": "incident",
+    "title": "INC-299: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00048",
+    "timestamp": "2026-04-18T19:15:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00049",
+    "timestamp": "2026-04-18T19:03:00Z",
+    "kind": "incident",
+    "title": "INC-857: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00050",
+    "timestamp": "2026-04-18T20:52:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00051",
+    "timestamp": "2026-04-18T20:32:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00052",
+    "timestamp": "2026-04-18T20:11:00Z",
+    "kind": "incident",
+    "title": "INC-584: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00053",
+    "timestamp": "2026-04-18T20:20:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1349 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00054",
+    "timestamp": "2026-04-18T21:15:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1097 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00055",
+    "timestamp": "2026-04-18T21:01:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00056",
+    "timestamp": "2026-04-18T21:32:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00057",
+    "timestamp": "2026-04-18T21:32:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00058",
+    "timestamp": "2026-04-18T22:08:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00059",
+    "timestamp": "2026-04-18T23:27:00Z",
+    "kind": "incident",
+    "title": "INC-317: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00060",
+    "timestamp": "2026-04-18T23:41:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00061",
+    "timestamp": "2026-04-18T23:47:00Z",
+    "kind": "incident",
+    "title": "INC-196: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00062",
+    "timestamp": "2026-04-18T23:10:00Z",
+    "kind": "incident",
+    "title": "INC-541: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00063",
+    "timestamp": "2026-04-18T23:22:00Z",
+    "kind": "incident",
+    "title": "INC-194: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00064",
+    "timestamp": "2026-04-19T00:28:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00065",
+    "timestamp": "2026-04-19T00:32:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.0",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00066",
+    "timestamp": "2026-04-19T00:17:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.0",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00067",
+    "timestamp": "2026-04-19T00:52:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00068",
+    "timestamp": "2026-04-19T01:44:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00069",
+    "timestamp": "2026-04-19T01:57:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00070",
+    "timestamp": "2026-04-19T01:38:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1438 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00071",
+    "timestamp": "2026-04-19T01:21:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1283 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00072",
+    "timestamp": "2026-04-19T02:15:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00073",
+    "timestamp": "2026-04-19T02:59:00Z",
+    "kind": "incident",
+    "title": "INC-743: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00074",
+    "timestamp": "2026-04-19T02:32:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00075",
+    "timestamp": "2026-04-19T02:00:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1009 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00076",
+    "timestamp": "2026-04-19T03:59:00Z",
+    "kind": "incident",
+    "title": "INC-208: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00077",
+    "timestamp": "2026-04-19T03:34:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00078",
+    "timestamp": "2026-04-19T03:21:00Z",
+    "kind": "incident",
+    "title": "INC-952: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00079",
+    "timestamp": "2026-04-19T04:03:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.4",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00080",
+    "timestamp": "2026-04-19T04:27:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.4",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00081",
+    "timestamp": "2026-04-19T04:18:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00082",
+    "timestamp": "2026-04-19T05:17:00Z",
+    "kind": "incident",
+    "title": "INC-103: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00083",
+    "timestamp": "2026-04-19T06:02:00Z",
+    "kind": "incident",
+    "title": "INC-416: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00084",
+    "timestamp": "2026-04-19T06:24:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.6",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00085",
+    "timestamp": "2026-04-19T07:49:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00086",
+    "timestamp": "2026-04-19T08:25:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1011 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00087",
+    "timestamp": "2026-04-19T08:33:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00088",
+    "timestamp": "2026-04-19T08:48:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00089",
+    "timestamp": "2026-04-19T08:41:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00090",
+    "timestamp": "2026-04-19T09:51:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00091",
+    "timestamp": "2026-04-19T09:37:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00092",
+    "timestamp": "2026-04-19T09:01:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1021 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00093",
+    "timestamp": "2026-04-19T09:35:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00094",
+    "timestamp": "2026-04-19T09:31:00Z",
+    "kind": "incident",
+    "title": "INC-103: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00095",
+    "timestamp": "2026-04-19T10:42:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1269 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00096",
+    "timestamp": "2026-04-19T10:54:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1135 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00097",
+    "timestamp": "2026-04-19T10:29:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00098",
+    "timestamp": "2026-04-19T10:49:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.10",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00099",
+    "timestamp": "2026-04-19T11:21:00Z",
+    "kind": "incident",
+    "title": "INC-767: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00100",
+    "timestamp": "2026-04-19T11:08:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00101",
+    "timestamp": "2026-04-19T11:44:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1111 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00102",
+    "timestamp": "2026-04-19T11:29:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.11",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00103",
+    "timestamp": "2026-04-19T13:18:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1234 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00104",
+    "timestamp": "2026-04-19T13:58:00Z",
+    "kind": "incident",
+    "title": "INC-315: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00105",
+    "timestamp": "2026-04-19T13:33:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00106",
+    "timestamp": "2026-04-19T14:45:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1186 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00107",
+    "timestamp": "2026-04-19T14:00:00Z",
+    "kind": "incident",
+    "title": "INC-603: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00108",
+    "timestamp": "2026-04-19T15:26:00Z",
+    "kind": "incident",
+    "title": "INC-485: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00109",
+    "timestamp": "2026-04-19T15:48:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.15",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00110",
+    "timestamp": "2026-04-19T15:57:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1378 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00111",
+    "timestamp": "2026-04-19T15:55:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00112",
+    "timestamp": "2026-04-19T15:06:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.15",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00113",
+    "timestamp": "2026-04-19T16:27:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.16",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00114",
+    "timestamp": "2026-04-19T17:58:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00115",
+    "timestamp": "2026-04-19T17:59:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1374 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00116",
+    "timestamp": "2026-04-19T17:31:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.17",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00117",
+    "timestamp": "2026-04-19T17:18:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.17",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00118",
+    "timestamp": "2026-04-19T17:41:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00119",
+    "timestamp": "2026-04-19T19:10:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00120",
+    "timestamp": "2026-04-19T20:48:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.20",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00121",
+    "timestamp": "2026-04-19T20:11:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1175 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00122",
+    "timestamp": "2026-04-19T20:51:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.20",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00123",
+    "timestamp": "2026-04-19T21:33:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00124",
+    "timestamp": "2026-04-19T21:36:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.1.21",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00125",
+    "timestamp": "2026-04-19T21:50:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00126",
+    "timestamp": "2026-04-19T22:41:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00127",
+    "timestamp": "2026-04-19T22:45:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00128",
+    "timestamp": "2026-04-19T22:25:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1476 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00129",
+    "timestamp": "2026-04-20T00:09:00Z",
+    "kind": "incident",
+    "title": "INC-798: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00130",
+    "timestamp": "2026-04-20T01:35:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1397 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00131",
+    "timestamp": "2026-04-20T01:41:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1366 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00132",
+    "timestamp": "2026-04-20T01:27:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00133",
+    "timestamp": "2026-04-20T02:12:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00134",
+    "timestamp": "2026-04-20T02:19:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00135",
+    "timestamp": "2026-04-20T02:15:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00136",
+    "timestamp": "2026-04-20T02:03:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.2.2",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00137",
+    "timestamp": "2026-04-20T04:42:00Z",
+    "kind": "incident",
+    "title": "INC-479: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00138",
+    "timestamp": "2026-04-20T04:45:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.2.4",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00139",
+    "timestamp": "2026-04-20T05:54:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00140",
+    "timestamp": "2026-04-20T05:14:00Z",
+    "kind": "incident",
+    "title": "INC-326: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00141",
+    "timestamp": "2026-04-20T06:11:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00142",
+    "timestamp": "2026-04-20T06:09:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00143",
+    "timestamp": "2026-04-20T06:26:00Z",
+    "kind": "incident",
+    "title": "INC-826: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00144",
+    "timestamp": "2026-04-20T07:46:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.2.7",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00145",
+    "timestamp": "2026-04-20T07:59:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00146",
+    "timestamp": "2026-04-20T07:24:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00147",
+    "timestamp": "2026-04-20T07:05:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1143 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00148",
+    "timestamp": "2026-04-20T07:24:00Z",
+    "kind": "incident",
+    "title": "INC-887: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00149",
+    "timestamp": "2026-04-20T08:12:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00150",
+    "timestamp": "2026-04-20T08:57:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00151",
+    "timestamp": "2026-04-20T08:02:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00152",
+    "timestamp": "2026-04-20T08:47:00Z",
+    "kind": "incident",
+    "title": "INC-720: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00153",
+    "timestamp": "2026-04-20T08:02:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00154",
+    "timestamp": "2026-04-20T09:46:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1386 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00155",
+    "timestamp": "2026-04-20T09:30:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1366 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00156",
+    "timestamp": "2026-04-20T10:11:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00157",
+    "timestamp": "2026-04-20T11:20:00Z",
+    "kind": "incident",
+    "title": "INC-427: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00158",
+    "timestamp": "2026-04-20T11:12:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00159",
+    "timestamp": "2026-04-20T11:02:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00160",
+    "timestamp": "2026-04-20T11:04:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1135 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00161",
+    "timestamp": "2026-04-20T12:28:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00162",
+    "timestamp": "2026-04-20T12:15:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00163",
+    "timestamp": "2026-04-20T12:36:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.2.12",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00164",
+    "timestamp": "2026-04-20T13:11:00Z",
+    "kind": "incident",
+    "title": "INC-341: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00165",
+    "timestamp": "2026-04-20T13:04:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.2.13",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00166",
+    "timestamp": "2026-04-20T13:51:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00167",
+    "timestamp": "2026-04-20T14:53:00Z",
+    "kind": "incident",
+    "title": "INC-482: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00168",
+    "timestamp": "2026-04-20T14:12:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1307 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00169",
+    "timestamp": "2026-04-20T14:55:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00170",
+    "timestamp": "2026-04-20T16:45:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00171",
+    "timestamp": "2026-04-20T16:02:00Z",
+    "kind": "incident",
+    "title": "INC-361: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00172",
+    "timestamp": "2026-04-20T16:52:00Z",
+    "kind": "incident",
+    "title": "INC-938: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00173",
+    "timestamp": "2026-04-20T16:39:00Z",
+    "kind": "incident",
+    "title": "INC-179: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00174",
+    "timestamp": "2026-04-20T16:04:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00175",
+    "timestamp": "2026-04-20T17:05:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00176",
+    "timestamp": "2026-04-20T17:42:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.2.17",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00177",
+    "timestamp": "2026-04-20T17:26:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.2.17",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00178",
+    "timestamp": "2026-04-20T17:25:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00179",
+    "timestamp": "2026-04-20T17:25:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1295 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00180",
+    "timestamp": "2026-04-20T19:41:00Z",
+    "kind": "incident",
+    "title": "INC-506: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00181",
+    "timestamp": "2026-04-20T19:32:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00182",
+    "timestamp": "2026-04-20T19:59:00Z",
+    "kind": "incident",
+    "title": "INC-211: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00183",
+    "timestamp": "2026-04-20T19:53:00Z",
+    "kind": "incident",
+    "title": "INC-144: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00184",
+    "timestamp": "2026-04-20T20:05:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00185",
+    "timestamp": "2026-04-20T20:39:00Z",
+    "kind": "incident",
+    "title": "INC-729: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00186",
+    "timestamp": "2026-04-20T20:02:00Z",
+    "kind": "incident",
+    "title": "INC-630: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00187",
+    "timestamp": "2026-04-20T20:15:00Z",
+    "kind": "incident",
+    "title": "INC-842: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00188",
+    "timestamp": "2026-04-20T20:42:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1429 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00189",
+    "timestamp": "2026-04-20T21:49:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00190",
+    "timestamp": "2026-04-20T21:24:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00191",
+    "timestamp": "2026-04-20T21:00:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1316 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00192",
+    "timestamp": "2026-04-20T21:53:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00193",
+    "timestamp": "2026-04-20T22:27:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.2.22",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00194",
+    "timestamp": "2026-04-21T01:05:00Z",
+    "kind": "incident",
+    "title": "INC-851: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00195",
+    "timestamp": "2026-04-21T01:48:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1258 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00196",
+    "timestamp": "2026-04-21T01:46:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00197",
+    "timestamp": "2026-04-21T01:51:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.3.1",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00198",
+    "timestamp": "2026-04-21T01:53:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1179 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00199",
+    "timestamp": "2026-04-21T02:09:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00200",
+    "timestamp": "2026-04-21T02:32:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00201",
+    "timestamp": "2026-04-21T03:40:00Z",
+    "kind": "incident",
+    "title": "INC-384: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00202",
+    "timestamp": "2026-04-21T03:07:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.3.3",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00203",
+    "timestamp": "2026-04-21T03:33:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00204",
+    "timestamp": "2026-04-21T04:51:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00205",
+    "timestamp": "2026-04-21T04:21:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.3.4",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00206",
+    "timestamp": "2026-04-21T04:03:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00207",
+    "timestamp": "2026-04-21T05:57:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00208",
+    "timestamp": "2026-04-21T05:18:00Z",
+    "kind": "incident",
+    "title": "INC-740: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00209",
+    "timestamp": "2026-04-21T05:08:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1250 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00210",
+    "timestamp": "2026-04-21T05:00:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1290 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00211",
+    "timestamp": "2026-04-21T06:26:00Z",
+    "kind": "incident",
+    "title": "INC-408: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00212",
+    "timestamp": "2026-04-21T06:53:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00213",
+    "timestamp": "2026-04-21T06:28:00Z",
+    "kind": "incident",
+    "title": "INC-165: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00214",
+    "timestamp": "2026-04-21T06:51:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00215",
+    "timestamp": "2026-04-21T07:37:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00216",
+    "timestamp": "2026-04-21T07:57:00Z",
+    "kind": "incident",
+    "title": "INC-145: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00217",
+    "timestamp": "2026-04-21T07:15:00Z",
+    "kind": "incident",
+    "title": "INC-159: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00218",
+    "timestamp": "2026-04-21T07:12:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00219",
+    "timestamp": "2026-04-21T08:41:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00220",
+    "timestamp": "2026-04-21T08:19:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1320 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00221",
+    "timestamp": "2026-04-21T08:24:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1432 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00222",
+    "timestamp": "2026-04-21T08:28:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00223",
+    "timestamp": "2026-04-21T11:59:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00224",
+    "timestamp": "2026-04-21T11:35:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00225",
+    "timestamp": "2026-04-21T12:05:00Z",
+    "kind": "incident",
+    "title": "INC-619: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00226",
+    "timestamp": "2026-04-21T12:12:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00227",
+    "timestamp": "2026-04-21T12:38:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.3.12",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00228",
+    "timestamp": "2026-04-21T12:30:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00229",
+    "timestamp": "2026-04-21T12:14:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00230",
+    "timestamp": "2026-04-21T14:09:00Z",
+    "kind": "incident",
+    "title": "INC-127: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00231",
+    "timestamp": "2026-04-21T14:09:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.3.14",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00232",
+    "timestamp": "2026-04-21T14:40:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00233",
+    "timestamp": "2026-04-21T14:48:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00234",
+    "timestamp": "2026-04-21T15:15:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1105 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00235",
+    "timestamp": "2026-04-21T15:52:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1384 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00236",
+    "timestamp": "2026-04-21T15:06:00Z",
+    "kind": "incident",
+    "title": "INC-875: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00237",
+    "timestamp": "2026-04-21T16:16:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00238",
+    "timestamp": "2026-04-21T16:58:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.3.16",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00239",
+    "timestamp": "2026-04-21T17:01:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00240",
+    "timestamp": "2026-04-21T17:30:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.3.17",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00241",
+    "timestamp": "2026-04-21T17:36:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1419 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00242",
+    "timestamp": "2026-04-21T17:18:00Z",
+    "kind": "incident",
+    "title": "INC-868: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00243",
+    "timestamp": "2026-04-21T19:50:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00244",
+    "timestamp": "2026-04-21T19:36:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.3.19",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00245",
+    "timestamp": "2026-04-21T19:10:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00246",
+    "timestamp": "2026-04-21T21:22:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.3.21",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00247",
+    "timestamp": "2026-04-21T21:01:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00248",
+    "timestamp": "2026-04-21T21:10:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00249",
+    "timestamp": "2026-04-21T21:48:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00250",
+    "timestamp": "2026-04-21T21:20:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00251",
+    "timestamp": "2026-04-21T22:29:00Z",
+    "kind": "incident",
+    "title": "INC-805: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00252",
+    "timestamp": "2026-04-21T22:29:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.3.22",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00253",
+    "timestamp": "2026-04-21T23:52:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00254",
+    "timestamp": "2026-04-21T23:20:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00255",
+    "timestamp": "2026-04-22T00:46:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.4.0",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00256",
+    "timestamp": "2026-04-22T01:50:00Z",
+    "kind": "incident",
+    "title": "INC-850: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00257",
+    "timestamp": "2026-04-22T03:17:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1105 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00258",
+    "timestamp": "2026-04-22T03:44:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00259",
+    "timestamp": "2026-04-22T03:16:00Z",
+    "kind": "incident",
+    "title": "INC-855: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00260",
+    "timestamp": "2026-04-22T03:44:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00261",
+    "timestamp": "2026-04-22T03:46:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00262",
+    "timestamp": "2026-04-22T04:41:00Z",
+    "kind": "incident",
+    "title": "INC-564: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00263",
+    "timestamp": "2026-04-22T04:06:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00264",
+    "timestamp": "2026-04-22T04:10:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00265",
+    "timestamp": "2026-04-22T04:54:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00266",
+    "timestamp": "2026-04-22T04:49:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.4.4",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00267",
+    "timestamp": "2026-04-22T05:10:00Z",
+    "kind": "incident",
+    "title": "INC-900: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00268",
+    "timestamp": "2026-04-22T05:29:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00269",
+    "timestamp": "2026-04-22T05:50:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00270",
+    "timestamp": "2026-04-22T05:13:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00271",
+    "timestamp": "2026-04-22T06:40:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.4.6",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00272",
+    "timestamp": "2026-04-22T06:04:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1214 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00273",
+    "timestamp": "2026-04-22T06:16:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00274",
+    "timestamp": "2026-04-22T06:51:00Z",
+    "kind": "incident",
+    "title": "INC-501: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00275",
+    "timestamp": "2026-04-22T08:30:00Z",
+    "kind": "incident",
+    "title": "INC-675: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00276",
+    "timestamp": "2026-04-22T08:40:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00277",
+    "timestamp": "2026-04-22T08:08:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00278",
+    "timestamp": "2026-04-22T08:24:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00279",
+    "timestamp": "2026-04-22T08:51:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1369 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00280",
+    "timestamp": "2026-04-22T09:30:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.4.9",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00281",
+    "timestamp": "2026-04-22T09:09:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.4.9",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00282",
+    "timestamp": "2026-04-22T10:33:00Z",
+    "kind": "incident",
+    "title": "INC-453: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00283",
+    "timestamp": "2026-04-22T10:13:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1487 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00284",
+    "timestamp": "2026-04-22T12:54:00Z",
+    "kind": "incident",
+    "title": "INC-290: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00285",
+    "timestamp": "2026-04-22T12:50:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00286",
+    "timestamp": "2026-04-22T12:57:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00287",
+    "timestamp": "2026-04-22T12:13:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00288",
+    "timestamp": "2026-04-22T13:16:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1214 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00289",
+    "timestamp": "2026-04-22T13:30:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1239 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00290",
+    "timestamp": "2026-04-22T13:34:00Z",
+    "kind": "incident",
+    "title": "INC-983: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00291",
+    "timestamp": "2026-04-22T13:44:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00292",
+    "timestamp": "2026-04-22T14:43:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00293",
+    "timestamp": "2026-04-22T14:01:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1312 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00294",
+    "timestamp": "2026-04-22T14:30:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00295",
+    "timestamp": "2026-04-22T15:08:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00296",
+    "timestamp": "2026-04-22T15:35:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00297",
+    "timestamp": "2026-04-22T15:35:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.4.15",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00298",
+    "timestamp": "2026-04-22T16:32:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.4.16",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00299",
+    "timestamp": "2026-04-22T16:50:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00300",
+    "timestamp": "2026-04-22T16:37:00Z",
+    "kind": "incident",
+    "title": "INC-750: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00301",
+    "timestamp": "2026-04-22T17:34:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00302",
+    "timestamp": "2026-04-22T17:12:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1420 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00303",
+    "timestamp": "2026-04-22T17:39:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00304",
+    "timestamp": "2026-04-22T17:38:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00305",
+    "timestamp": "2026-04-22T18:40:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00306",
+    "timestamp": "2026-04-22T18:49:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00307",
+    "timestamp": "2026-04-22T18:45:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00308",
+    "timestamp": "2026-04-22T18:01:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.4.18",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00309",
+    "timestamp": "2026-04-22T18:33:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00310",
+    "timestamp": "2026-04-22T19:04:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00311",
+    "timestamp": "2026-04-22T19:30:00Z",
+    "kind": "incident",
+    "title": "INC-522: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00312",
+    "timestamp": "2026-04-22T19:13:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00313",
+    "timestamp": "2026-04-22T21:07:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00314",
+    "timestamp": "2026-04-22T21:01:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00315",
+    "timestamp": "2026-04-22T21:11:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00316",
+    "timestamp": "2026-04-22T21:46:00Z",
+    "kind": "incident",
+    "title": "INC-186: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00317",
+    "timestamp": "2026-04-22T21:29:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00318",
+    "timestamp": "2026-04-23T00:52:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00319",
+    "timestamp": "2026-04-23T00:10:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00320",
+    "timestamp": "2026-04-23T00:36:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.5.0",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00321",
+    "timestamp": "2026-04-23T00:23:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1488 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00322",
+    "timestamp": "2026-04-23T00:49:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00323",
+    "timestamp": "2026-04-23T01:39:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1498 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00324",
+    "timestamp": "2026-04-23T01:00:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00325",
+    "timestamp": "2026-04-23T02:24:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00326",
+    "timestamp": "2026-04-23T03:20:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1134 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00327",
+    "timestamp": "2026-04-23T03:53:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.5.3",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00328",
+    "timestamp": "2026-04-23T03:49:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00329",
+    "timestamp": "2026-04-23T03:31:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00330",
+    "timestamp": "2026-04-23T03:03:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00331",
+    "timestamp": "2026-04-23T04:50:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1197 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00332",
+    "timestamp": "2026-04-23T04:14:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1203 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00333",
+    "timestamp": "2026-04-23T04:32:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00334",
+    "timestamp": "2026-04-23T04:51:00Z",
+    "kind": "incident",
+    "title": "INC-396: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00335",
+    "timestamp": "2026-04-23T05:54:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00336",
+    "timestamp": "2026-04-23T05:40:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.5.5",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00337",
+    "timestamp": "2026-04-23T05:22:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1143 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00338",
+    "timestamp": "2026-04-23T06:31:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00339",
+    "timestamp": "2026-04-23T08:52:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00340",
+    "timestamp": "2026-04-23T08:24:00Z",
+    "kind": "incident",
+    "title": "INC-128: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00341",
+    "timestamp": "2026-04-23T08:29:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00342",
+    "timestamp": "2026-04-23T10:16:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1163 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00343",
+    "timestamp": "2026-04-23T10:25:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00344",
+    "timestamp": "2026-04-23T10:11:00Z",
+    "kind": "incident",
+    "title": "INC-362: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00345",
+    "timestamp": "2026-04-23T10:16:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1402 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00346",
+    "timestamp": "2026-04-23T10:06:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1074 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00347",
+    "timestamp": "2026-04-23T11:37:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00348",
+    "timestamp": "2026-04-23T11:16:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.5.11",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00349",
+    "timestamp": "2026-04-23T12:51:00Z",
+    "kind": "incident",
+    "title": "INC-793: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00350",
+    "timestamp": "2026-04-23T12:10:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1474 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00351",
+    "timestamp": "2026-04-23T12:08:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00352",
+    "timestamp": "2026-04-23T14:20:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.5.14",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00353",
+    "timestamp": "2026-04-23T14:21:00Z",
+    "kind": "incident",
+    "title": "INC-853: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00354",
+    "timestamp": "2026-04-23T14:56:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00355",
+    "timestamp": "2026-04-23T15:01:00Z",
+    "kind": "incident",
+    "title": "INC-684: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00356",
+    "timestamp": "2026-04-23T16:20:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1233 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00357",
+    "timestamp": "2026-04-23T16:57:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00358",
+    "timestamp": "2026-04-23T16:16:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1386 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00359",
+    "timestamp": "2026-04-23T17:24:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1148 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00360",
+    "timestamp": "2026-04-23T18:01:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00361",
+    "timestamp": "2026-04-23T19:50:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1426 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00362",
+    "timestamp": "2026-04-23T19:58:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1209 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00363",
+    "timestamp": "2026-04-23T19:33:00Z",
+    "kind": "incident",
+    "title": "INC-335: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00364",
+    "timestamp": "2026-04-23T22:31:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00365",
+    "timestamp": "2026-04-23T22:45:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00366",
+    "timestamp": "2026-04-23T22:04:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1354 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00367",
+    "timestamp": "2026-04-23T22:51:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00368",
+    "timestamp": "2026-04-24T00:08:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00369",
+    "timestamp": "2026-04-24T00:02:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.6.0",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00370",
+    "timestamp": "2026-04-24T00:33:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.6.0",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00371",
+    "timestamp": "2026-04-24T01:52:00Z",
+    "kind": "incident",
+    "title": "INC-986: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00372",
+    "timestamp": "2026-04-24T01:18:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1446 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00373",
+    "timestamp": "2026-04-24T01:33:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1411 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00374",
+    "timestamp": "2026-04-24T01:39:00Z",
+    "kind": "incident",
+    "title": "INC-271: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00375",
+    "timestamp": "2026-04-24T01:01:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1049 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00376",
+    "timestamp": "2026-04-24T02:36:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00377",
+    "timestamp": "2026-04-24T02:55:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.6.2",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00378",
+    "timestamp": "2026-04-24T02:31:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00379",
+    "timestamp": "2026-04-24T02:56:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00380",
+    "timestamp": "2026-04-24T03:29:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00381",
+    "timestamp": "2026-04-24T03:26:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00382",
+    "timestamp": "2026-04-24T03:49:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1185 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00383",
+    "timestamp": "2026-04-24T03:53:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00384",
+    "timestamp": "2026-04-24T03:33:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.6.3",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00385",
+    "timestamp": "2026-04-24T04:23:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1055 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00386",
+    "timestamp": "2026-04-24T04:32:00Z",
+    "kind": "incident",
+    "title": "INC-121: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00387",
+    "timestamp": "2026-04-24T04:40:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00388",
+    "timestamp": "2026-04-24T04:58:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.6.4",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00389",
+    "timestamp": "2026-04-24T04:06:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00390",
+    "timestamp": "2026-04-24T06:19:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1177 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00391",
+    "timestamp": "2026-04-24T06:57:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00392",
+    "timestamp": "2026-04-24T07:32:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1067 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00393",
+    "timestamp": "2026-04-24T07:47:00Z",
+    "kind": "incident",
+    "title": "INC-858: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00394",
+    "timestamp": "2026-04-24T07:36:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00395",
+    "timestamp": "2026-04-24T08:57:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00396",
+    "timestamp": "2026-04-24T08:15:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1170 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00397",
+    "timestamp": "2026-04-24T09:00:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00398",
+    "timestamp": "2026-04-24T09:31:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.6.9",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00399",
+    "timestamp": "2026-04-24T09:35:00Z",
+    "kind": "incident",
+    "title": "INC-720: auth 500s",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00400",
+    "timestamp": "2026-04-24T09:24:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00401",
+    "timestamp": "2026-04-24T10:47:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00402",
+    "timestamp": "2026-04-24T11:12:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00403",
+    "timestamp": "2026-04-24T12:17:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00404",
+    "timestamp": "2026-04-24T12:55:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00405",
+    "timestamp": "2026-04-24T12:25:00Z",
+    "kind": "alert",
+    "title": "alert: memory high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00406",
+    "timestamp": "2026-04-24T12:07:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00407",
+    "timestamp": "2026-04-24T12:22:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00408",
+    "timestamp": "2026-04-24T13:20:00Z",
+    "kind": "marketing",
+    "title": "announcement: partnership",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00409",
+    "timestamp": "2026-04-24T13:11:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.6.13",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00410",
+    "timestamp": "2026-04-24T13:14:00Z",
+    "kind": "shipped",
+    "title": "shipped: webhooks v2",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00411",
+    "timestamp": "2026-04-24T14:27:00Z",
+    "kind": "incident",
+    "title": "INC-110: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00412",
+    "timestamp": "2026-04-24T14:19:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00413",
+    "timestamp": "2026-04-24T15:46:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00414",
+    "timestamp": "2026-04-24T15:43:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00415",
+    "timestamp": "2026-04-24T15:06:00Z",
+    "kind": "incident",
+    "title": "INC-483: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00416",
+    "timestamp": "2026-04-24T15:09:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00417",
+    "timestamp": "2026-04-24T16:21:00Z",
+    "kind": "shipped",
+    "title": "shipped: analytics export",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00418",
+    "timestamp": "2026-04-24T16:23:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.6.16",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00419",
+    "timestamp": "2026-04-24T16:57:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00420",
+    "timestamp": "2026-04-24T16:33:00Z",
+    "kind": "incident",
+    "title": "INC-935: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00421",
+    "timestamp": "2026-04-24T17:03:00Z",
+    "kind": "incident",
+    "title": "INC-678: queue backlog",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00422",
+    "timestamp": "2026-04-24T17:40:00Z",
+    "kind": "marketing",
+    "title": "announcement: Series B",
+    "_gold_relevant_section": null
+  },
+  {
+    "event_id": "EVT-00423",
+    "timestamp": "2026-04-24T17:45:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.6.17",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00424",
+    "timestamp": "2026-04-24T18:42:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1015 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00425",
+    "timestamp": "2026-04-24T18:55:00Z",
+    "kind": "deploy",
+    "title": "prod deploy v2026.6.18",
+    "_gold_relevant_section": "Numbers"
+  },
+  {
+    "event_id": "EVT-00426",
+    "timestamp": "2026-04-24T18:38:00Z",
+    "kind": "alert",
+    "title": "alert: 5xx rate",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00427",
+    "timestamp": "2026-04-24T18:06:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1038 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00428",
+    "timestamp": "2026-04-24T19:41:00Z",
+    "kind": "pr_merged",
+    "title": "PR #1006 merged: payment refactor",
+    "_gold_relevant_section": "Shipped"
+  },
+  {
+    "event_id": "EVT-00429",
+    "timestamp": "2026-04-24T19:22:00Z",
+    "kind": "incident",
+    "title": "INC-273: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00430",
+    "timestamp": "2026-04-24T19:04:00Z",
+    "kind": "shipped",
+    "title": "shipped: SSO",
+    "_gold_relevant_section": "Highlights"
+  },
+  {
+    "event_id": "EVT-00431",
+    "timestamp": "2026-04-24T21:37:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00432",
+    "timestamp": "2026-04-24T22:02:00Z",
+    "kind": "incident",
+    "title": "INC-701: db latency",
+    "_gold_relevant_section": "Incidents"
+  },
+  {
+    "event_id": "EVT-00433",
+    "timestamp": "2026-04-24T23:38:00Z",
+    "kind": "alert",
+    "title": "alert: cpu high",
+    "_gold_relevant_section": "Risks"
+  },
+  {
+    "event_id": "EVT-00434",
+    "timestamp": "2026-04-24T23:45:00Z",
+    "kind": "marketing",
+    "title": "announcement: blog post",
+    "_gold_relevant_section": null
+  }
+]
